@@ -1,0 +1,19 @@
+site_name: Хэрэглэгчийн гарын авлага
+nav:
+    - Захиалагчийн гарын авлага:
+        - 'Байгууллагын бүртгэл': 'procuringentity\registration.md'
+        - 'Худалдан авах ажиллагааны төлөвлөгөө боловсруулах': 'procuringentity\planning.md'
+        - 'Release asd': 'index.md'
+        - 'Release Notes': 'release-notes.md'
+        - 'Release Notes': 'release-notes.md'
+        - 'Release Notes': 'release-notes.md'        
+    - Нийлүүлэгчийн гарын авлага:         
+        - 'License': 'license.md'
+        - 'Release Notes': 'release-notes.md'
+    - Help:
+        - TEST:
+            - ЗАААА: help.md
+        - TEST:
+            - БҮРТГЭЛ: index.md            
+theme: readthedocs
+
